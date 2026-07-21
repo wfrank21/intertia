@@ -1,15 +1,15 @@
 # Datenschutzerklärung – Inertia
 
-Stand: [Datum einfügen]
+Stand: 21.07.2026
 
 ## 1. Verantwortlicher
 
-[Vollständiger Name / Firmenname]
-[Straße und Hausnummer]
-[PLZ und Ort]
-[Land]
+Wolfgang Frank
+Meinigstr. 27A
+38667 Bad Harzburg
+Deutschland
 
-E-Mail: [deine-email@beispiel.de]
+E-Mail: wolfgang.frank@frawas.de
 
 Im Folgenden „wir" oder „der Anbieter".
 
@@ -81,4 +81,4 @@ Wir können diese Datenschutzerklärung anpassen, z.B. wenn sich der Funktionsum
 
 ## 11. Kontakt
 
-Bei Fragen zum Datenschutz wende dich bitte an: [deine-email@beispiel.de]
+Bei Fragen zum Datenschutz wende dich bitte an: wolfgang.frank@frawas.de
