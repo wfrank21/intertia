@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Inertia misst deine Geschwindigkeit per GPS, um Beschleunigungs- und Bremszeiten (z.B. 0-100 km/h) zu ermitteln.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Inertia nutzt den Bewegungssensor deines iPhones, um den genauen Moment des Anfahrens zu erkennen und so präzise Beschleunigungszeiten zu messen.</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+</dict>
+</plist>
